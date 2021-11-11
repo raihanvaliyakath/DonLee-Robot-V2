@@ -202,7 +202,7 @@ async def cb_settings(bot, update: CallbackQuery):
     text+=f"\nYou Can Use This Menu To Change Connectivity And Know Status Of Your Every Connected Channel, Change Filter Types, Configure Filter Results And To Know Status Of Your Group..."
     
     buttons = [[
-        InlineKeyboardButton("📣 Channels 📣", callback_data=f"channel_list({chat_id})")
+        InlineKeyboardButton("⭕Channels⭕", callback_data=f"channel_list({chat_id})")
         ],[             
         InlineKeyboardButton("📖 Filter Types 📖", callback_data=f"types({chat_id})")
         ],[
