@@ -171,23 +171,11 @@ async def sub(bot, message):
                     [
                          InlineKeyboardButton
                              (                                 
-                                 "📣Group", url="t.me/mo_tech_group"
+                                 "⭕Group", url="https://t.me/joinchat/DZyj5flQUuYyNmYx"
                              ),
                          InlineKeyboardButton
                              (
-                                 "📢Channel", url="t.me/mo_tech_yt"
-                             )
-                    ],
-                    [
-                         InlineKeyboardButton
-                             (
-                                 "😟 Build a New Bot 😟", url="https://youtu.be/NrbMc93aCzA"
-                             )
-                    ],
-                    [
-                         InlineKeyboardButton
-                             (
-                                 "💥Subscribe youtube Channel💥", url="https://www.youtube.com/c/MoTech_YT"
+                                 "🎪Channel", url="https://t.me/joinchat/7pwRP5_snDhhNmE1"
                              )
                     ],
                     [
@@ -326,7 +314,7 @@ async def settings(bot, update):
     text+=f"\nYou Can Use This Menu To Change Connectivity And Know Status Of Your Every Connected Channel, Change Filter Types, Configure Filter Results"
     
     buttons = [[
-        InlineKeyboardButton("📣 Channels 📣", callback_data=f"channel_list({chat_id})")
+        InlineKeyboardButton("🎪 Channels 🎪", callback_data=f"channel_list({chat_id})")
         ],[
         InlineKeyboardButton("📚 Filter Types 📚", callback_data=f"types({chat_id})")
         ],[
