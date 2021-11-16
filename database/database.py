@@ -949,7 +949,7 @@ class Database:
             print(e) 
             return False
 
-    Donlee_bt = InlineKeyboardMarkup( [[ InlineKeyboardButton(CHANNEL_NAME, url="CHANNEL_LINK")]])
+    Donlee_bt = InlineKeyboardMarkup( [[ InlineKeyboardButton(CHANNEL_NAME, url=CHANNEL_LINK)]])
     async def delall_filters(self, group_id: int):
         """
         A Funtion To delete all filters of a group
