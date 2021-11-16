@@ -5,6 +5,10 @@ from typing import List
 from pyrogram.types import InlineKeyboardButton, Message, InlineKeyboardMarkup
 from imdb import IMDb
 
+CHANNEL_LINK = "https://t.me/joinchat/7pwRP5_snDhhNmE1"
+CHANNEL_NAME = "join My Update Channel"
+
+
 imdb = IMDb() 
 myclient = pymongo.MongoClient(DATABASE)
 mydb = myclient[BOT_NAME]
@@ -945,7 +949,7 @@ class Database:
             print(e) 
             return False
 
-    Donlee_bt = InlineKeyboardMarkup( [[ InlineKeyboardButton("DEPLOY", url="t.me/Mo_Tech_YT")]])
+    Donlee_bt = InlineKeyboardMarkup( [[ InlineKeyboardButton(CHANNEL_NAME, url="CHANNEL_LINK")]])
     async def delall_filters(self, group_id: int):
         """
         A Funtion To delete all filters of a group
