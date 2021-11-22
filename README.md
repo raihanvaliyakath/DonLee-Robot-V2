@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/DONLEE-ROBOT-V2/DonLee_Robot.jpg" alt="Eva Maria Logo">
 </p>
-
+maintained by @RAIHAN_TG
 <p align="center">
 🤖 𝐃𝐎𝐍 𝐋𝐄𝐄 𝐑𝐎𝐁𝐎𝐓 𝐕𝟐 🤖
 </p>
@@ -15,12 +15,12 @@
 <a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/LICENSE"><img alt="github" src="https://img.shields.io/badge/License-AGPL-blue"/></a>
 </p>
 
-👋Hey <a href="https://telegram.dog/Mrk_YT">Muhammed</a>, Iam <a href="https://telegram.me/Donlee_Robot">DonLee RoBoT</a>
+👋>Muhammed</a>, Iam <a href="https://telegram.me/Donlee_Robot">DonLee RoBoT</a>
 Make me an admin for your group and channel then connect me....🎉
 🙂To build a DonLee robot V2 like me, click on the <a href="https://telegram.dog/Donlee_Robot">/subscribe</a> command
 Subscribe to the update channel to learn about my updates and activity...
 Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a> Command for more information
-🧒 Maintained By <a href="https://t.me/Mrk_yt">This Person</a>     
+🧒 Maintained By <a href="https://t.me/RAIHAN_TG>This Person</a>     
    
 ----
 
@@ -28,17 +28,9 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐒𝐓𝐀𝐓𝐔𝐒 ↩️
 </p>
 
-[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V2)](https://github.com/PR0FESS0R-99/DonLee-Robot-V2)
 
 
-----
-
-<p align="center">
-↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐕𝐈𝐃𝐄𝐎 ↩️
-</p>
-
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://img.shields.io/youtube/views/NrbMc93aCzA?style=social"></a>
+</
 
 ----
 
